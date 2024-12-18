@@ -104,18 +104,6 @@ Return = (Exit_Price - Entry_Price) / Entry_Price * 100
 - plotly
 - python-dateutil
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Disclaimer
 
 This tool is for educational and research purposes only. It does not constitute financial advice, and any trading decisions should be made after thorough research and consultation with financial professionals.
